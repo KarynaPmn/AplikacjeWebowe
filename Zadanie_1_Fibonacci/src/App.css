@@ -1,0 +1,36 @@
+body {
+  background: red;
+}
+
+* {
+  color: white;
+  font-weight: bold;
+}
+
+.block_1 {
+  text-align: center;
+}
+
+.block_1 img {
+  width: 200px;
+  height: 200px;
+}
+
+.block_2 {
+  position: absolute;
+  margin: 100px;
+  bottom: 0;
+}
+
+h2 {
+  color: yellow;
+}
+
+h3 {
+  color: blue;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
