@@ -1,0 +1,75 @@
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.App {
+  text-align: center;
+}
+
+label, p {
+  color: darkslateblue;
+}
+
+p {
+  font-weight: bold;
+}
+
+h3 {
+  color: blueviolet;
+  text-decoration: underline;
+}
+
+h5 {
+  color: cornflowerblue;
+}
+
+header {
+  color: brown;
+  text-align: left;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.mainBlock-1 {
+  text-align: left;
+}
+
+.mainBlock-1 li {
+  color: darkblue;
+}
+
+.mainBlock-2 {
+  display: flex;
+  text-align: left;
+}
+
+.mainBlock-2 div {
+  padding: 0 50px 0 50px;
+}
+
+.input-block {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-block input {
+  height: 60%;
+}
+
+.grafika-block {
+  display: flex;
+  flex-direction: column;
+}
+
+footer {
+  margin-top: 40px;
+  color: darkgreen;
+}
